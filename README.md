@@ -1,1 +1,2 @@
-# HuntingIsIllegal
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
